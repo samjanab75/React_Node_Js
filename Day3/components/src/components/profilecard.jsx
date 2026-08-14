@@ -43,7 +43,7 @@ const ProfileCard = () => {
 
             <div className="flex justify-between">
               <span className="font-semibold">Phone</span>
-              <span>+91 77084 414404</span>
+              <span>+91 7708414404</span>
             </div>
 
             <div className="flex justify-between">
